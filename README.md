@@ -1,5 +1,5 @@
 # myPasswords
-A simple password manager that passwords as well as generated keys to protect your passwords.
+A simple password manager that requires the password as well as generated keys to protect your passwords.
 
 ## Features
 - Store your passwords in an encrypted database.
